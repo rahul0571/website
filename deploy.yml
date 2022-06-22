@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: custom
-        image: devopsintellipaat/project2_22_june:latest
+        image: devopsintellipaat/project2_22_june:v1
         ports:
         - containerPort: 80
 
