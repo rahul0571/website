@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: custom
-        image: devopsintellipaat/project2:latest
+        image: rahul0571/capston-nginx
         ports:
         - containerPort: 80
 
